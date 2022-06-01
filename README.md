@@ -71,7 +71,7 @@ This bot only supports js extensions.
 ```
 [SumCheck] Reg : Registered the (CommandName) Command.
 ```
-This is a registed the slashcommand send a console infomation.
+This is a registed the slashcommand send a infomation in console.
 
 ```
 [SumCheck] Warning : Commandfile in not RUN function. Please check this.
